@@ -15,6 +15,7 @@ decides to do next.
 
 | Project | What it does | Stack |
 |---|---|---|
+| [Sales & Revenue Executive Dashboard](https://github.com/TheBigManKen/powerbi-sales-dashboard) | Power BI exec dashboard on a star-schema model (60k rows): YoY, targets vs actuals, $73.3M revenue | Power BI, DAX |
 | [E-Commerce Sales Dashboard](https://github.com/TheBigManKen/sales-dashboard) | Live interactive dashboard over 5,000+ orders with KPI cards and channel filtering ([live demo](https://thebigmanken.github.io/sales-dashboard/)) | Plotly.js, JavaScript |
 | [E-Commerce Sales Analysis](https://github.com/TheBigManKen/ecommerce-sales-analysis) | End to end analysis of 5,000+ orders with channel, pricing, and regional recommendations | Python, pandas |
 | [Customer Churn Analysis](https://github.com/TheBigManKen/customer-churn-analysis) | Finds churn drivers across 7,500 customers and predicts who will leave (0.798 ROC-AUC) | Python, scikit-learn |
